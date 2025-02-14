@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Telusko Job Portal</title>
+<title>Slaves of Kunal</title>
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
 	rel="stylesheet"
@@ -55,7 +55,7 @@ p {
 							Jobs</a></li>
 
 					<li class="nav-item"><a class="nav-link"
-						href="https://telusko.com/">Contact</a></li>
+						href="https://github.com/Korags05">Contact</a></li>
 				</ul>
 			</div>
 		</div>

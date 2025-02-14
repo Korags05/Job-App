@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="com.telusko.JobApp.model.JobPost" %>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page import="org.kunal.JobApp.model.JobPost" %>
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
 <%@page isELIgnored="false" %>
 <!DOCTYPE html>
 <html lang="en">
