@@ -10,13 +10,7 @@ import java.util.List;
 @Repository
 public class JobRepo {
 
-    List<JobPost> jobs = new ArrayList<>(Arrays.asList(
-            new JobPost(1,
-                    "Java Developer",
-                    "Must have good experience in core Java and advanced Java",
-                    2,
-                    List.of("Core Java", "J2EE", "Spring Boot", "Hibernate"))
-    ));
+    List<JobPost> jobs = new ArrayList<>();
 
 
     public List<JobPost> getAllJobs() {
